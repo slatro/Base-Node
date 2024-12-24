@@ -131,4 +131,4 @@ echo Latest synced block behind by: $((($(date +%s)-$( \
 ```
 
 
-Forklamayı ve beğenmeyi unutmayınız :)
+Forklamayı ve beğenmeyi unutmayınız :))
